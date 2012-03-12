@@ -1,0 +1,3 @@
+Titanium UI controller - loads views based on device type.
+
+This is not another MVC project, it is just for view management.

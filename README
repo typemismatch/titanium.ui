@@ -1,2 +1,8 @@
 titanium ui controller - not an mvc project ;)
 
+The ui/Loader.js can be included at the start of your project and will handle basic view loading.
+
+For those who don't like eval - use a global var or keep your views in a global var. ie. myapp['dynamicview']();
+
+
+
